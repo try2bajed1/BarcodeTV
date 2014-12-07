@@ -1,0 +1,73 @@
+{
+    "response_header": {
+        "response_code": 0,
+        "response_desc": "OK"
+    },
+    "response": {
+        "id": "40",
+        "title": "Кухня",
+        "image": {
+            "364x146": "http:\/\/secondscreen.hosting2.ias.su\/media\/project\/6310ffbbe030b1a390301cf0ab657917841cf139.png",
+            "400x161": "http:\/\/secondscreen.hosting2.ias.su\/media\/project\/6310ffbbe030b1a390301cf0ab657917841cf139_400x308.png",
+            "800x321": "http:\/\/secondscreen.hosting2.ias.su\/media\/project\/6310ffbbe030b1a390301cf0ab657917841cf139_800x600.png"
+        },
+        "main_banner": {
+            "link_partner": "http:\/\/ctc.ru\/rus\/projects\/serials\/49087\/",
+            "link_counter": "http:\/\/ya.ru\/",
+            "image": {
+                "640x960": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/233b971d29bfe24d616c97f74d5504c5295994b1.jpg",
+                "205x308": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/233b971d29bfe24d616c97f74d5504c5295994b1_400x308.jpg",
+                "1069x1600": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/233b971d29bfe24d616c97f74d5504c5295994b1_2048x1600.jpg"
+            }
+        },
+        "menu_banner": {
+            "link_partner": "http:\/\/vk.com\/kuxnia_ctc",
+            "link_counter": "http:\/\/ya.ru\/",
+            "image": {
+                "604x540": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/f8ae546e3230ccb6664f5a89c2cd90e4baf4f0c0.jpg",
+                "400x356": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/f8ae546e3230ccb6664f5a89c2cd90e4baf4f0c0_400x308.jpg",
+                "2048x1831": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/f8ae546e3230ccb6664f5a89c2cd90e4baf4f0c0_2048x1600.jpg"
+            }
+        },
+        "theme": {
+            "name": "Кухня",
+            "bg_menu": "FFA1B4",
+            "bg_cell": "FFB726",
+            "bg_head": "FF1717",
+            "font_color_menu": "FFFFFF",
+            "font_color_head": "FFFFFF",
+            "font_color_cell": "FFFFFF",
+            "cell_separator_color": "FFFFFF"
+        },
+        "items": [{
+            "id": "176",
+            "title": "Расписание",
+            "id_order": "3",
+            "type": "shedule"
+        },
+            {
+                "id": "177",
+                "title": "Фото",
+                "id_order": "4",
+                "type": "photo"
+            },
+            {
+                "id": "179",
+                "title": "Новости",
+                "id_order": "1",
+                "type": "news"
+            },
+            {
+                "id": "180",
+                "title": "Актёры",
+                "id_order": "2",
+                "type": "actor"
+            },
+            {
+                "id": "181",
+                "title": "Видео",
+                "id_order": "5",
+                "type": "video"
+            }]
+    }
+}

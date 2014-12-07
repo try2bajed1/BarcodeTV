@@ -1,0 +1,85 @@
+{
+    "response_header": {
+        "response_code": 0,
+        "response_desc": "OK"
+    },
+    "response": {
+        "id": "38",
+        "title": "Физрук",
+        "image": {
+            "720x276": "http:\/\/secondscreen.hosting2.ias.su\/media\/project\/463a1732d7336c22f44edae38363818b82c4e905.jpg",
+            "400x155": "http:\/\/secondscreen.hosting2.ias.su\/media\/project\/463a1732d7336c22f44edae38363818b82c4e905_400x308.jpg",
+            "800x306": "http:\/\/secondscreen.hosting2.ias.su\/media\/project\/463a1732d7336c22f44edae38363818b82c4e905_800x600.jpg"
+        },
+        "main_banner": {
+            "link_partner": "http:\/\/fizruk.tnt-online.ru\/",
+            "link_counter": "http:\/\/ya.ru\/",
+            "image": {
+                "700x1050": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/505b3ac0c76c16e40c78a3805c4601293912f98b.jpg",
+                "203x308": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/505b3ac0c76c16e40c78a3805c4601293912f98b_400x308.jpg",
+                "1064x1600": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/505b3ac0c76c16e40c78a3805c4601293912f98b_2048x1600.jpg"
+            }
+        },
+        "menu_banner": {
+            "link_partner": "http:\/\/fizruk.tnt-online.ru\/",
+            "link_counter": "http:\/\/ya.ru\/",
+            "image": {
+                "611x723": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/bd5f03a121fc2eafe1dd932df359e6daddd113ae.jpg",
+                "263x308": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/bd5f03a121fc2eafe1dd932df359e6daddd113ae_400x308.jpg",
+                "1350x1600": "http:\/\/secondscreen.hosting2.ias.su\/media\/banner\/bd5f03a121fc2eafe1dd932df359e6daddd113ae_2048x1600.jpg"
+            }
+        },
+        "theme": {
+            "name": "Физрук",
+            "bg_menu": "D94D1A",
+            "bg_cell": "EDD21F",
+            "bg_head": "D94D1A",
+            "font_color_menu": "363636",
+            "font_color_head": "363636",
+            "font_color_cell": "333333",
+            "cell_separator_color": "19C2FF"
+        },
+        "items": [{
+            "id": "161",
+            "title": "Расписание",
+            "id_order": "3",
+            "type": "shedule"
+        },
+            {
+                "id": "162",
+                "title": "Фото",
+                "id_order": "5",
+                "type": "photo"
+            },
+            {
+                "id": "164",
+                "title": "Новости",
+                "id_order": "2",
+                "type": "news"
+            },
+            {
+                "id": "165",
+                "title": "Актёры",
+                "id_order": "4",
+                "type": "actor"
+            },
+            {
+                "id": "166",
+                "title": "Видео",
+                "id_order": "6",
+                "type": "video"
+            },
+            {
+                "id": "167",
+                "title": "О программе",
+                "id_order": "1",
+                "type": "page"
+            },
+            {
+                "id": "168",
+                "title": "Список серий",
+                "id_order": "8",
+                "type": "list"
+            }]
+    }
+}

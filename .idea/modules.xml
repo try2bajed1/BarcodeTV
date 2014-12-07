@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SecondScreen.iml" filepath="$PROJECT_DIR$/SecondScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_docs/ZBarScanner-master/examples/ZBarScannerDemo/ZBarScannerDemo.iml" filepath="$PROJECT_DIR$/_docs/ZBarScanner-master/examples/ZBarScannerDemo/ZBarScannerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_docs/ZBarScanner-master/ZBarScannerLibrary/ZBarScannerLibrary.iml" filepath="$PROJECT_DIR$/_docs/ZBarScanner-master/ZBarScannerLibrary/ZBarScannerLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/times_square/times_square.iml" filepath="$PROJECT_DIR$/libs/times_square/times_square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/zbar_integrator/zbar_integrator.iml" filepath="$PROJECT_DIR$/libs/zbar_integrator/zbar_integrator.iml" />
+    </modules>
+  </component>
+</project>
+
